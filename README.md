@@ -4,13 +4,9 @@
 
 Things you may want to cover:
 
-* Ruby version: 3.1.0
+* Ruby version: 3.1.0: `rvm install "ruby-3.1.9"`
 
-`rvm install "ruby-3.1.9"`
-
-* Rails version: 6.1.4:
-
-`gem install rails -v '6.1.4'`
+* Rails version: 6.1.4: `gem install rails -v '6.1.4'`
 
 * Data base: SQLite
 
