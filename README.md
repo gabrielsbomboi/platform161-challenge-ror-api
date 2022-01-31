@@ -6,6 +6,8 @@ Things you may want to cover:
 
 * Ruby version: 3.1.0
 
+* Rails version: 6.1.4
+
 * Data base: SQLite
 
 * Make sure you have bundler gem installed
