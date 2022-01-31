@@ -4,7 +4,7 @@
 
 Things you may want to cover:
 
-* Ruby version: 3.0.0
+* Ruby version: 3.1.0
 
 * Data base: SQLite
 
